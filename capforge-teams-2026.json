@@ -1,0 +1,498 @@
+{
+  "schemaVersion": 3,
+  "league": {
+    "startingSalaryCap": 300000000,
+    "conferences": [
+      "AF",
+      "NF"
+    ],
+    "divisions": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ]
+  },
+  "teams": [
+    {
+      "teamId": 4,
+      "abbr": "BUF",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "East",
+      "colors": {
+        "primary": "#00338D",
+        "secondary": "#C60C30",
+        "tertiary": "#00274D"
+      },
+      "logo": "assets/logos/buf.png"
+    },
+    {
+      "teamId": 20,
+      "abbr": "MIA",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "East",
+      "colors": {
+        "primary": "#008E97",
+        "secondary": "#EF6F39",
+        "tertiary": "#005778"
+      },
+      "logo": "assets/logos/mia.png"
+    },
+    {
+      "teamId": 22,
+      "abbr": "NE",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "East",
+      "colors": {
+        "primary": "#083663",
+        "secondary": "#C60C30",
+        "tertiary": "#B0B7BC"
+      },
+      "logo": "assets/logos/ne.png"
+    },
+    {
+      "teamId": 25,
+      "abbr": "NYJ",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "East",
+      "colors": {
+        "primary": "#125740",
+        "secondary": "#000000",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/nyj.png"
+    },
+    {
+      "teamId": 3,
+      "abbr": "BAL",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "North",
+      "colors": {
+        "primary": "#241773",
+        "secondary": "#9E7C0C",
+        "tertiary": "#000000"
+      },
+      "logo": "assets/logos/bal.png"
+    },
+    {
+      "teamId": 7,
+      "abbr": "CIN",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "North",
+      "colors": {
+        "primary": "#FB4F14",
+        "secondary": "#000000",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/cin.png"
+    },
+    {
+      "teamId": 8,
+      "abbr": "CLE",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "North",
+      "colors": {
+        "primary": "#633E08",
+        "secondary": "#FF3C00",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/cle.png"
+    },
+    {
+      "teamId": 27,
+      "abbr": "PIT",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "North",
+      "colors": {
+        "primary": "#F0AB0F",
+        "secondary": "#101820",
+        "tertiary": "#A5ACAF"
+      },
+      "logo": "assets/logos/pit.png"
+    },
+    {
+      "teamId": 13,
+      "abbr": "HOU",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "South",
+      "colors": {
+        "primary": "#084463",
+        "secondary": "#A71930",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/hou.png"
+    },
+    {
+      "teamId": 14,
+      "abbr": "IND",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "South",
+      "colors": {
+        "primary": "#002C5F",
+        "secondary": "#A2AAAD",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/ind.png"
+    },
+    {
+      "teamId": 15,
+      "abbr": "JAX",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "South",
+      "colors": {
+        "primary": "#006778",
+        "secondary": "#D7A22A",
+        "tertiary": "#000000"
+      },
+      "logo": "assets/logos/jax.png"
+    },
+    {
+      "teamId": 31,
+      "abbr": "TEN",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "South",
+      "colors": {
+        "primary": "#11315A",
+        "secondary": "#4B92DB",
+        "tertiary": "#C60C30"
+      },
+      "logo": "assets/logos/ten.png"
+    },
+    {
+      "teamId": 10,
+      "abbr": "DEN",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "West",
+      "colors": {
+        "primary": "#FB4F14",
+        "secondary": "#002244",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/den.png"
+    },
+    {
+      "teamId": 16,
+      "abbr": "KC",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "West",
+      "colors": {
+        "primary": "#E31837",
+        "secondary": "#F0AA0F",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/kc.png"
+    },
+    {
+      "teamId": 17,
+      "abbr": "LAC",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "West",
+      "colors": {
+        "primary": "#0080C6",
+        "secondary": "#F0B70F",
+        "tertiary": "#002244"
+      },
+      "logo": "assets/logos/lac.png"
+    },
+    {
+      "teamId": 19,
+      "abbr": "LV",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "AF",
+      "division": "West",
+      "colors": {
+        "primary": "#2E2E2E",
+        "secondary": "#A5ACAF",
+        "tertiary": "#000000"
+      },
+      "logo": "assets/logos/lv.png"
+    },
+    {
+      "teamId": 9,
+      "abbr": "DAL",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "East",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#869397",
+        "tertiary": "#00338D"
+      },
+      "logo": "assets/logos/dal.png"
+    },
+    {
+      "teamId": 24,
+      "abbr": "NYG",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "East",
+      "colors": {
+        "primary": "#0B2265",
+        "secondary": "#A71930",
+        "tertiary": "#A5ACAF"
+      },
+      "logo": "assets/logos/nyg.png"
+    },
+    {
+      "teamId": 26,
+      "abbr": "PHI",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "East",
+      "colors": {
+        "primary": "#085A63",
+        "secondary": "#A5ACAF",
+        "tertiary": "#000000"
+      },
+      "logo": "assets/logos/phi.png"
+    },
+    {
+      "teamId": 32,
+      "abbr": "WAS",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "East",
+      "colors": {
+        "primary": "#5A1414",
+        "secondary": "#F0AB0F",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/was.png"
+    },
+    {
+      "teamId": 6,
+      "abbr": "CHI",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "North",
+      "colors": {
+        "primary": "#162C55",
+        "secondary": "#C83803",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/chi.png"
+    },
+    {
+      "teamId": 11,
+      "abbr": "DET",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "North",
+      "colors": {
+        "primary": "#0076B6",
+        "secondary": "#B0B7BC",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/det.png"
+    },
+    {
+      "teamId": 12,
+      "abbr": "GB",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "North",
+      "colors": {
+        "primary": "#27443C",
+        "secondary": "#F0AB0F",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/gb.png"
+    },
+    {
+      "teamId": 21,
+      "abbr": "MIN",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "North",
+      "colors": {
+        "primary": "#4F2683",
+        "secondary": "#F0B20F",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/min.png"
+    },
+    {
+      "teamId": 2,
+      "abbr": "ATL",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "South",
+      "colors": {
+        "primary": "#A71930",
+        "secondary": "#000000",
+        "tertiary": "#A5ACAF"
+      },
+      "logo": "assets/logos/atl.png"
+    },
+    {
+      "teamId": 5,
+      "abbr": "CAR",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "South",
+      "colors": {
+        "primary": "#0085CA",
+        "secondary": "#101820",
+        "tertiary": "#BFC0BF"
+      },
+      "logo": "assets/logos/car.png"
+    },
+    {
+      "teamId": 23,
+      "abbr": "NO",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "South",
+      "colors": {
+        "primary": "#D3BC8D",
+        "secondary": "#101820",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/no.png"
+    },
+    {
+      "teamId": 30,
+      "abbr": "TB",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "South",
+      "colors": {
+        "primary": "#D50A0A",
+        "secondary": "#34302B",
+        "tertiary": "#FF7900"
+      },
+      "logo": "assets/logos/tb.png"
+    },
+    {
+      "teamId": 1,
+      "abbr": "ARI",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "West",
+      "colors": {
+        "primary": "#97233F",
+        "secondary": "#F0AB0F",
+        "tertiary": "#000000"
+      },
+      "logo": "assets/logos/ari.png"
+    },
+    {
+      "teamId": 18,
+      "abbr": "LAR",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "West",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#FFA300",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/lar.png"
+    },
+    {
+      "teamId": 28,
+      "abbr": "SEA",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "West",
+      "colors": {
+        "primary": "#083663",
+        "secondary": "#69BE28",
+        "tertiary": "#A5ACAF"
+      },
+      "logo": "assets/logos/sea.png"
+    },
+    {
+      "teamId": 29,
+      "abbr": "SF",
+      "city": "",
+      "name": "",
+      "stadium": "",
+      "conference": "NF",
+      "division": "West",
+      "colors": {
+        "primary": "#AA0000",
+        "secondary": "#B3995D",
+        "tertiary": "#FFFFFF"
+      },
+      "logo": "assets/logos/sf.png"
+    }
+  ]
+}
